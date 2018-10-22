@@ -1,0 +1,35 @@
+Problem 11. Programming Languages
+
+#1 - "C" 
+
+C is now considered a moraly old language because it is rather primitive and decaying.
+It is still used in in some fields but mostly because there is no other alternative avaible (OS,hardware 
+device drivers, embedded devices).
+
+#2 - "C++" 
+
+C++ is a very complicated language compared to C#. It takes a lot of time to learn and master and the
+productivity of a C++ programmer is significantly lower than that of a C# programmer. Also the C++ language is good 
+for crating applications that work closely with the hardware but for all other purposes its inadequate.
+
+#3 - "PhP"
+
+Php is a language that works good for small scale web sites and web applications, if you want to create something thats 
+not web based Php is not a good choice.Because of various evolutionary reasons, PHP is a language that tends towards 
+low-quality programming. To write good PhP code a lot of knowledge and experience is necessary.
+
+#4 - "Java"
+
+Java and C# are considered very good object-orientated languages. They share many features that make the 2 languages
+very competative and widely used by programmers.Some of the things that make C# better are:It supports native 
+resource-management idioms; It's deeply integrated with Windows; It has Lambdas and LINQ and more.
+Also a very strong C# feature is that its easier to learn.
+
+#5 - "Python"
+
+Python is a dynamic, strongly typed, object oriented, multipurpose programming language, designed to be 
+quick (to learn, to use, and to understand), and to enforce a clean and uniform syntax.
+Python can be used for any programming task, from GUI programming to web programming with everything else in between.
+It's quite efficient, as much of its activity is done at the C level. Python is just a layer on top of C.
+The main advantages of C# over python are: Excellent Windows integration, including access to all standard
+GUI functions and other libraries; JIT compilation, resulting in better performance than Python; Visual Studio.
